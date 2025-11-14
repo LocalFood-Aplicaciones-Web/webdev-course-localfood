@@ -1,0 +1,53 @@
+/* ====== Estilo general de la página ====== */
+body {
+  /* Agrega un tipo de letra */
+  /* Cambia el color de fondo */
+  margin: 0;
+  padding: 20px;
+}
+
+/* ====== Contenedor principal ====== */
+.card {
+  /* Agrega un color de fondo */
+  /* Agrega espacio interno (padding) */
+  /* Cambia el ancho máximo (max-width) */
+  /* Centra el contenedor con margin */
+  /* Agrega bordes redondeados */
+  /* Agrega una sombra si lo deseas */
+  text-align: center;
+}
+
+/* ====== Imagen de perfil ====== */
+.avatar {
+  /* Ajusta el tamaño (width) */
+  /* Hazla circular con border-radius */
+  /* Centra la imagen */
+  margin-bottom: 15px;
+}
+
+/* ====== Títulos ====== */
+h1, h2 {
+  /* Cambia el color del texto */
+}
+
+/* ====== Texto ====== */
+p {
+  /* Ajusta el tamaño de fuente */
+  /* Ajusta el interlineado (line-height) */
+}
+
+/* ====== Lista ====== */
+ul {
+  /* Cambia el estilo de la lista (disc, square, etc.) */
+  /* Ajusta el padding-left */
+  /* Alinea a la izquierda o al centro */
+}
+
+/* ====== Enlace ====== */
+a {
+  /* Cambia el color del enlace */
+  /* Agrega o quita subrayado */
+}
+  /* Cambia el color al pasar el mouse */
+  /* Agrega subrayado */
+}
