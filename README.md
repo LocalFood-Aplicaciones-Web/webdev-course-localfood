@@ -19,13 +19,35 @@ El curso está dividido en lecciones cortas (5–15 minutos cada una) y tiene un
 ## Lecciones
 Cada lección incluye un video (no listado en YouTube), ejemplos prácticos y ejercicios.  
 
-- **Lección 1–4**: Introducción a HTML y CSS (estructura, etiquetas, estilos básicos).  
-- **Lección 5**: [Crear una página web sencilla](https://youtube.com/tu-video-leccion5)  
-  - Código en [CodePen](https://codepen.io/tu-enlace-leccion5)  
-  - Ejemplo final en `/completed-examples/lesson5-final.html`  
-- **Lección 6**: [Consejos y próximos pasos](https://youtube.com/tu-video-leccion6)  
+- **Lección 1: Introducción a HTML**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion1)  
+  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion1)  
+  - Ejemplo final: `/completed-examples/lesson1-final.html`  
+
+- **Lección 2: Elementos comunes en HTML**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion2)  
+  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion2)  
+  - Ejemplo final: `/completed-examples/lesson2-final.html`  
+
+- **Lección 3: CSS básico**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion3)  
+  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion3)  
+  - Ejemplo final: `/completed-examples/lesson3-final.html`  
+
+- **Lección 4: Estilos simples y diseño básico**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion4)  
+  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion4)  
+  - Ejemplo final: `/completed-examples/lesson4-final.html`  
+
+- **Lección 5: Crear una página web sencilla**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion5)  
+  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion5)  
+  - Ejemplo final: `/completed-examples/lesson5-final.html`  
+
+- **Lección 6: Consejos y próximos pasos**  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion6)  
   - Recursos adicionales: [MDN Web Docs](https://developer.mozilla.org/es/), [W3C Validator](https://validator.w3.org/)  
-  - Ejemplo final en `/completed-examples/lesson6-final.html`  
+  - Ejemplo final: `/completed-examples/lesson6-final.html`  
 
 ## Participación
 Cada integrante del equipo contribuyó con commits en este repositorio.  
