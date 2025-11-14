@@ -1,0 +1,19 @@
+body {
+  background-color: #fafafa;
+  font-family: Arial, sans-serif;
+}
+h1 { 
+  color: #2a72d4; 
+  text-align: center;
+} 
+p { 
+  color: #555; 
+  font-size: 18px;
+  text-align: center; 
+} 
+.box { 
+  border: 2px solid #2a72d4; 
+  padding: 20px; width: 50%; 
+  margin: auto;
+  border-radius: 10px; 
+}
