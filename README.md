@@ -36,16 +36,17 @@ Cada lección incluye un video (no listado en YouTube), ejemplos prácticos y ej
 
 - **Lección 4: Estilos simples y diseño básico**  
   - Video: [Enlace aquí](https://youtube.com/tu-video-leccion4)  
-  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion4)  
+  - Editor online: [CodePen](https://codepen.io/)  
   - Ejemplo final: `/completed-examples/lesson4-final.html`  
 
 - **Lección 5: Crear una página web sencilla**  
   - Video: [Enlace aquí](https://youtube.com/tu-video-leccion5)  
-  - Editor online: [CodePen/Replit](https://codepen.io/tu-enlace-leccion5)  
+  - Editor online: [CodePen](https://codepen.io/)  
   - Ejemplo final: `/completed-examples/lesson5-final.html`  
 
 - **Lección 6: Consejos y próximos pasos**  
-  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion6)  
+  - Video: [Enlace aquí](https://youtube.com/tu-video-leccion6)
+  - Editor online: [CodePen](https://codepen.io/)  
   - Recursos adicionales: [MDN Web Docs](https://developer.mozilla.org/es/), [W3C Validator](https://validator.w3.org/)  
   - Ejemplo final: `/completed-examples/lesson6-final.html`  
 
