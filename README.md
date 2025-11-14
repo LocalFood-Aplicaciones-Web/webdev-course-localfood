@@ -4,19 +4,19 @@
 Este repositorio contiene el material del curso introductorio de **Desarrollo Web** dirigido a estudiantes de secundaria (12–17 años).  
 El curso está dividido en lecciones cortas (5–15 minutos cada una) y tiene una duración total aproximada de 1 hora.  
 
-## 📘 Objetivo
+## Objetivo
 - Introducir conceptos básicos de **HTML y CSS**.  
 - Guiar a los estudiantes en la creación de su primera página web.  
 - Motivar a continuar aprendiendo desarrollo web con recursos adicionales.  
 
-## 📂 Estructura del repositorio
-- `COURSE_PLAN.md` → Plan completo del curso en formato Markdown (exportado también a PDF).  
+## Estructura del repositorio
+- `COURSE_PLAN.md` → Plan completo del curso en formato Markdown.  
 - `starter-files/` → Archivos iniciales para que los estudiantes practiquen.  
 - `completed-examples/` → Versiones finales completas de cada lección.  
 - `scripts/` → Archivos adicionales (si aplica).  
 - `assets/` → Recursos opcionales (imágenes, estilos, etc.).  
 
-## 🎥 Lecciones
+## Lecciones
 Cada lección incluye un video (no listado en YouTube), ejemplos prácticos y ejercicios.  
 
 - **Lección 1–4**: Introducción a HTML y CSS (estructura, etiquetas, estilos básicos).  
@@ -27,11 +27,11 @@ Cada lección incluye un video (no listado en YouTube), ejemplos prácticos y ej
   - Recursos adicionales: [MDN Web Docs](https://developer.mozilla.org/es/), [W3C Validator](https://validator.w3.org/)  
   - Ejemplo final en `/completed-examples/lesson6-final.html`  
 
-## 📝 Participación
+## Participación
 Cada integrante del equipo contribuyó con commits en este repositorio.  
 El informe de participación se encuentra en el documento entregado al docente.  
 
-## 📊 Evaluación
+## Evaluación
 Este curso cumple con los criterios de la rúbrica:  
 - Estructura y flujo del curso.  
 - Precisión técnica.  
@@ -39,7 +39,7 @@ Este curso cumple con los criterios de la rúbrica:
 - Calidad de producción de video.  
 - Documento del plan de curso.  
 
-## 🚀 Próximos pasos
+## Próximos pasos
 Los estudiantes pueden seguir practicando con proyectos pequeños:  
 - Página de recetas.  
 - Portafolio personal.  
